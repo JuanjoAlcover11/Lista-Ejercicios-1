@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class Ejercicio2 : MonoBehaviour
+public class Exercise2 : MonoBehaviour
 {
     public int num;
     public TextMeshProUGUI text;

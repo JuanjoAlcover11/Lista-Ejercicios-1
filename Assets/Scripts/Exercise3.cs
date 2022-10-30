@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio3 : MonoBehaviour
+public class Exercise3 : MonoBehaviour
 {
     private float xPos, yPos, zPos;
 

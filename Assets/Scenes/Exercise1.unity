@@ -222,7 +222,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 92181364}
-        m_TargetAssemblyTypeName: Ejercicio1, Assembly-CSharp
+        m_TargetAssemblyTypeName: Exercise1, Assembly-CSharp
         m_MethodName: RandomNumber
         m_Mode: 1
         m_Arguments:
