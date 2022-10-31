@@ -12,12 +12,14 @@ public class Exercise3 : MonoBehaviour
 
     void Update()
     {
+        //If you press "Enter"...
         if (Input.GetKeyDown(KeyCode.Return))
         {
+            //Generates a random position 
             xPos = Random.Range(-xRange, xRange);
             yPos = Random.Range(-yRange, yRange);
             zPos = Random.Range(-zRange, zRange);
-
+            //The cube is moved to that position
             transform.position = new Vector3(xPos, yPos, zPos);
         }
     }

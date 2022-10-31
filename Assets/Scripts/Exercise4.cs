@@ -8,6 +8,7 @@ public class Exercise4 : MonoBehaviour
 
     public void ChangeObjectScale(float n)
     {
+        //When you move the slider, the scale of the sphere changes
         sphere.transform.localScale = new Vector3(n, n, n);
     }
 }
